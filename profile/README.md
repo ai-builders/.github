@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="logo-image.png" />
+  <img src="https://raw.githubusercontent.com/ai-builders/.github/main/profile/logo-image.png" />
   <br>
 </p>
 
